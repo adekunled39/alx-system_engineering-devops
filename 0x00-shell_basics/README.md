@@ -1,1 +1,1 @@
-basic shell scriptings
+Where am i
